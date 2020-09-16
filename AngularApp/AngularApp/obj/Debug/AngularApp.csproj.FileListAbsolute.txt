@@ -1,0 +1,34 @@
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\AngularApp.dll.config
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\AngularApp.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\AngularApp.pdb
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Helpers.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Mvc.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Razor.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Webpages.Deployment.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Webpages.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Webpages.Razor.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Razor.xml
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Webpages.xml
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Webpages.Deployment.xml
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Webpages.Razor.xml
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Helpers.xml
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\bin\System.Web.Mvc.xml
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\obj\Debug\AngularApp.csprojResolveAssemblyReference.cache
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\obj\Debug\AngularApp.dll
+c:\users\llad\documents\visual studio 2013\Projects\AngularApp\AngularApp\obj\Debug\AngularApp.pdb
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\AngularApp.dll.config
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\AngularApp.dll
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\AngularApp.pdb
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Helpers.dll
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Razor.dll
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Webpages.Deployment.dll
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Webpages.dll
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Webpages.Razor.dll
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Razor.xml
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Webpages.xml
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Webpages.Deployment.xml
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Webpages.Razor.xml
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\bin\System.Web.Helpers.xml
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\obj\Debug\AngularApp.csprojResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\obj\Debug\AngularApp.dll
+C:\Laxmikant\D\Applications\AngularApp\AngularApp\obj\Debug\AngularApp.pdb
